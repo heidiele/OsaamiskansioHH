@@ -13,6 +13,7 @@
 3. Yhteiskunnallisesti toimiva ja vastuullinen opettaja (15 op)
     <br />3.1 Opettajan työn säädöksellinen perusta (5 op)
     <br />3.2. Opettajien laaja-alaisen työn havainnointi (5 op)
-    <br />3.3 Inkluusio, osallisuus ja oppiva yhteisö (5 op)
-<br />Lähdeluettelo (tba)
+    <br />3.3 Inkluusio, osallisuus ja oppiva yhteisö (5 op)<br />
+
+Lähdeluettelo (tba)
 
