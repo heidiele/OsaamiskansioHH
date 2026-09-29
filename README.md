@@ -3,9 +3,9 @@
 
 ## Sisällys
 1. Kehittyminen ammatilliseksi opettajaksi (5 op)
-    HEKS 1
-    Aikataulusuunnitelma
-    1.6 jälkihionta: pohdinta opettajaidentiteetistä
+    \nHEKS 1
+    \nAikataulusuunnitelma
+    \n1.6 jälkihionta: pohdinta opettajaidentiteetistä
 2. Ammattikasvatustiede (15 op)
     2.1. Oppimisen ja opetuksen lähtökohdat (5 op)
     2.2. Oppiminen työelämässä ja verkostoissa (5 op)
